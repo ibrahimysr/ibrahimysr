@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ibrahim-yasar-7b985b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-yasar-7b985b259/" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimysr.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimysr.00" height="30" width="40" /></a>
 </p>
 
