@@ -4,96 +4,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;Mobile+App+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 📫 Contact Me
-- Email: **ibrahimyasar2701@gmail.com**
-- LinkedIn: [ibrahim-yasar](https://linkedin.com/in/ibrahim-yasar-7b985b259/)
-- Instagram: [ibrahimysr.00](https://instagram.com/ibrahimysr.00)
 
-## 💻 Tech Stack
+- 📫 How to reach me *ibrahimyasar2701@gmail.com*
 
-### Programming Languages
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
+<a href="https://linkedin.com/in/ibrahim-yasar-7b985b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-yasar-7b985b259/" height="30" width="40" /></a>
+<a href="https://instagram.com/ibrahimysr.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimysr.00" height="30" width="40" /></a>
 </p>
 
-### Frameworks & Libraries
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+<h3 align="left">Languages and Tools</h3>
 
-### Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+*Programming Languages*  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat)
 
-### Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+*Frameworks & Libraries*  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dot-net&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat)
 
-## 📈 GitHub Stats
+*Databases*  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimysr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ibrahimysr" />
-</div>
+*Tools & Platforms*  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=flat)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimysr&show_icons=true&locale=en&theme=tokyonight" alt="ibrahimysr" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimysr&show_icons=true&theme=dark&locale=en&layout=compact" alt="ibrahimysr" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimysr&theme=tokyonight" alt="ibrahimysr" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimysr&show_icons=true&theme=dark&locale=en" alt="ibrahimysr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimysr&" alt="ibrahimysr" /></p>
 
 ---
 
