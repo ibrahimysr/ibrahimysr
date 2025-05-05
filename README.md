@@ -12,49 +12,30 @@
 <h3 align="left">Languages and Tools</h3>
 
 **Programming Languages**  
-<p>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat)
 
 **Frameworks & Libraries**  
-<p>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-</p>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dot-net&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat)
 
 **Databases**  
-<p>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
-</p>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat)
 
 **Tools & Platforms**  
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
-
-**Other**  
-<p>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-</p>
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=flat)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimysr&show_icons=true&theme=dark&locale=en&layout=compact" alt="ibrahimysr" /></p>
 
