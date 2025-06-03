@@ -61,7 +61,6 @@ Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisliği öğr
 - 🌱 **Learning:** Advanced backend architectures and cloud technologies
 - 👯 **Looking to collaborate on:** Open source projects and innovative mobile apps
 - 💬 **Ask me about:** Flutter, Laravel, Python, Machine Learning
-- ⚡ **Fun fact:** Kod yazarken en çok dinlediğim müzik türü lo-fi hip hop! 🎵
 
 ## 📊 GitHub Stats
 
