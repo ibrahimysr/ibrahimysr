@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisliği öğrencisiyim. Teknoloji dünyasına olan tutkum ve sürekli öğrenme isteğimle kendimi geliştiriyorum. Mobil uygulama geliştirme, web teknolojileri ve makine öğrenmesi alanlarında projeler üretmeyi seviyorum.
+Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisiyim. Teknoloji dünyasına olan tutkum ve sürekli öğrenme isteğimle kendimi geliştiriyorum. Mobil uygulama geliştirme, web teknolojileri ve makine öğrenmesi alanlarında projeler üretmeyi seviyorum.
 
-- 🎓 Bilgisayar Mühendisliği Öğrencisi
+- 🎓 Bilgisayar Mühendisliği 
 - 💻 Full-Stack & Mobile Developer
 - 🤖 AI/ML Enthusiast
 - 🌱 Sürekli öğrenmeye açık
