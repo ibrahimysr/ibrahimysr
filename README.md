@@ -95,7 +95,20 @@ Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisiyim. Tekno
 ---
 
 <div align="center">
+  
+  ![snake gif](https://github.com/ibrahimysr/ibrahimysr/blob/output/github-snake-dark.svg)
+
+
+</div>
+ 
+
+
+  
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahimysr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
   **Thanks for visiting! 🚀**
 </div>
+
+
+ 
