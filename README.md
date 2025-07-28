@@ -71,6 +71,8 @@ Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisiyim. Tekno
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimysr&theme=tokyonight" alt="ibrahimysr" />
+   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
 
 ## 🤝 Connect with me
@@ -93,6 +95,13 @@ Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisiyim. Tekno
 </div>
 
 ---
+
+###
+
+<div align="center">
+</div>
+
+
 
 <div align="center">
   
