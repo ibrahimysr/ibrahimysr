@@ -6,13 +6,15 @@
 
 ## 🚀 About Me
 
-Merhaba! Ben İbrahim, Gaziantep'te yaşayan bir Bilgisayar Mühendisiyim. Teknoloji dünyasına olan tutkum ve sürekli öğrenme isteğimle kendimi geliştiriyorum. Mobil uygulama geliştirme, web teknolojileri ve makine öğrenmesi alanlarında projeler üretmeyi seviyorum.
+Hello! I'm İbrahim, a Computer Engineer based in Gaziantep. With a strong passion for technology and a constant drive to learn, I continuously strive to improve myself. I enjoy building projects in mobile application development, web technologies, and machine learning.
 
-- 🎓 Bilgisayar Mühendisliği 
-- 💻 Full-Stack & Mobile Developer
-- 🤖 AI/ML Enthusiast
-- 🌱 Sürekli öğrenmeye açık
-- 🎯 Kaliteli kod yazmaya odaklanmış
+- 🎓 Computer Engineering  
+- 💻 Full-Stack & Mobile Developer  
+- 🤖 AI/ML Enthusiast  
+- 🌱 Eager to Learn and Grow  
+- 🎯 Focused on Writing Clean and Quality Code  
+
+
 
 ## 💪 Skills & Expertise
 
